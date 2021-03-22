@@ -6,7 +6,7 @@
 
 Optical Character Recognition (OCR) is one of the most widely implemented types of data entry methods.With this tool, you can save a lot of time.Productivity needs more time and with this project, you can save your precious time by getting text/audio in seconds.Scanned documents need to be edited most of the time, particularly when some information must be updated. OCR converts data to text, which can be easily edited.In adition to that ,you can also generate Audio file from Picture or Text written in the GUI.
 
-
+![Screenshot from 2021-03-22 09-32-12](https://user-images.githubusercontent.com/69477761/111939272-daf25c80-8af1-11eb-8b6e-76c1c4e5a1eb.png)
 
 I have used here,
 1. Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.Python-tesseract is a wrapper for Google’s Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported by the Pillow and Leptonica imaging libraries, including jpeg, png, gif, bmp, tiff, and others. Additionally, if used as a script, Python-tesseract will print the recognized text instead of writing it to a file.
