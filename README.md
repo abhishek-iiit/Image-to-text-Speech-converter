@@ -4,10 +4,16 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
+Optical Character Recognition (OCR) is one of the most widely implemented types of data entry methods.With this tool, you can save a lot of time.Productivity needs more time and with this project, you can save your precious time by getting text/audio in seconds.Scanned documents need to be edited most of the time, particularly when some information must be updated. OCR converts data to text, which can be easily edited.In adition to that ,you can also generate Audio file from Picture or Text written in the GUI.
 
 
 
-
+I have used here,
+1. Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.Python-tesseract is a wrapper for Google’s Tesseract-OCR Engine. It is also useful as a stand-alone invocation script to tesseract, as it can read all image types supported by the Pillow and Leptonica imaging libraries, including jpeg, png, gif, bmp, tiff, and others. Additionally, if used as a script, Python-tesseract will print the recognized text instead of writing it to a file.
+2. Tkinter is the standard GUI toolkit for Python.
+3. Pyperclip is a cross-platform Python module for copy and paste clipboard functions.
+4. gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation.
+5.  PIL (Python Imaging Library), provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities.
 
 ## Some Previous Blogs:
 <!-- BLOG-POST-LIST:START -->
